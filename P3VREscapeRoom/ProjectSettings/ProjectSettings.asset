@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: aa559b6f8efbd8447b09a9b74d3a9583
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -787,7 +787,7 @@ PlayerSettings:
   cloudProjectId: 786bf49c-183e-436e-9904-c8b420a4df4a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: P3VREscapeRoom
   organizationId: unity_756225
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
